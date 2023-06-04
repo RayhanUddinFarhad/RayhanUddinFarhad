@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhanuddinfarhad" alt="rayhanuddinfarhad" /></a> </p>
 
-- 🔭 I’m currently working on **Car Doctor**
+- 🔭 I’m currently working on **Style Spot**
 
 - 🌱 I’m currently learning **Next.js, Redux, MongoDB**
 
