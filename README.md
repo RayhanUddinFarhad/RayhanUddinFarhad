@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Style Spot**
 
-- 🌱 I’m currently learning **Next.js, Redux, MongoDB**
+- 🌱 I’m currently learning **Next.js, Redux, Node js, TypeScript**
 
-- 💬 Ask me about **Tailwind, Bootstrap, Javascript, React, express.js, Node.js**
+- 💬 Ask me about **Tailwind, Bootstrap, Javascript, React, express.js, MongoDb**
 
 - 📫 How to reach me **RayhanUddinFarhad11@gmail.com**
 
